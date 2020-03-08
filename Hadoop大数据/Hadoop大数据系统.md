@@ -144,3 +144,29 @@ graph TB
   ```
 
 - 大数据、云计算、物联网相伴相生密不可分。
+
+# 第二章-大数据处理架构Hadoop
+
+## Hadoop的安装与使用
+
+- Linux相关知识
+  - shell：命令解析器
+  - sudo命令：linux下获得root权限操作
+  - 输入密码：不显示的
+  - 切换中英文：用shift切换
+  - 复制快捷键：<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>c</kbd>
+- Hadoop安装方式
+  - 单机模式
+  - 伪分布式
+  - 分布式
+- 安装Linux
+  - 双系统
+  - 虚拟机
+- Linux中安装Hadoop
+  1. 创建hadoop用户
+  2. SSH登陆权限设置
+  3. 安装Java环境
+  4. 单机安装配置
+  5. 伪分布式安装配置
+- 
+
